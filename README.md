@@ -1,5 +1,5 @@
 # Election_Analysis
-## Project Overvieew
+## Project Overview
 I will give an analysis of a local congressional election. By doing the following:
 
 1. Calculating the total number of votes cast.
